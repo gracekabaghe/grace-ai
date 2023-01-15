@@ -5,7 +5,7 @@ This project uses the official Openai.com text-davinci-003 API to do Open ended 
 
 ![alt text](chatgpt.png)
 
-
+See it in action: grace-ai.vercel.app
 
 Created using Express, Node, Javascript, CSS
 
