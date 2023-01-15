@@ -14,7 +14,7 @@ Created using Express, Node, Javascript, CSS
 
 ## Authors
 
-👤 **Grace kabagher**
+👤 **Grace Kabaghe**
 
 
 
